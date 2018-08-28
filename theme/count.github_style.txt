@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/{|Submit|}-提交数-blue.svg)
 
-![](https://img.shields.io/badge/{|ACpercent%|}%-通过率-yellow.svg)
+![](https://img.shields.io/badge/0.{|ACpercent%|}-通过率-yellow.svg)
 
 难度统计:
 
